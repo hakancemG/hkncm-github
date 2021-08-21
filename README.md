@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning some programming languages
 - 💞️ I’m looking to collaborate on anything that boost my abilities
-- 📫 How to reach me hakancg95@gmail.com, hkn.cem@instagram, slmbrry@twitter
+- 📫 How to reach me hakancg95@gmail.com, hkn.cem/instagram, slmbrry/twitter
 
 <!---
 hkncm-github/hkncm-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
