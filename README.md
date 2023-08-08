@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hkncm-github
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning some programming languages
-- 💞️ I’m looking to collaborate on anything that boost my abilities
-- 📫 How to reach me hakancg95@gmail.com, hkn.cem/instagram, eightjune95/twitter, https://www.youtube.com/channel/UCsUJEO-ZSq2FDI0pQbwwo-w/YouTube
+It's me Hakan, software engineer!
+To contact me:
+hakancg95@gmail.com
+https://www.youtube.com/channel/UCsUJEO-ZSq2FDI0pQbwwo-w
+
 
 <!---
 hkncm-github/hkncm-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
