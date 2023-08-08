@@ -1,7 +1,7 @@
-It's me Hakan, software engineer!
-To contact me:
-hakancg95@gmail.com
-https://www.youtube.com/channel/UCsUJEO-ZSq2FDI0pQbwwo-w
+- It's me Hakan, software engineer!
+- To contact me:
+- hakancg95@gmail.com
+- https://www.youtube.com/channel/UCsUJEO-ZSq2FDI0pQbwwo-w
 
 
 <!---
